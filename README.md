@@ -1,5 +1,6 @@
 # in-order_apex_pipeline-
 Simple in-order 5 stage apex pipeline simulator implemented in c.
+
 Notes:
 ----------------------------------------------------------------------------------
 1) This code is a simple implementation of 5 Stage APEX Pipeline. 
